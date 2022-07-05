@@ -1,7 +1,6 @@
  <?php 
 session_start();
 include("connection/config.php");
-
 ?>
 
 <!DOCTYPE html>
@@ -12,7 +11,6 @@ include("connection/config.php");
    <link rel="icon" href="image/picture3.png"/>
   
       <style>
-
 
       /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
       @import url(https://fonts.googleapis.com/css?family=Exo:100,200,400);
@@ -151,13 +149,7 @@ img{
 	margin-bottom: 20%;
 }
 
-
     </style>
-
- 
- 
- 
-
 </head>
 
 
